@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperScissors", "ConsoleApp1\PaperScissors.csproj", "{96562D16-A2BB-4D89-B431-B8DE7D9A8586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96562D16-A2BB-4D89-B431-B8DE7D9A8586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96562D16-A2BB-4D89-B431-B8DE7D9A8586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96562D16-A2BB-4D89-B431-B8DE7D9A8586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96562D16-A2BB-4D89-B431-B8DE7D9A8586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81E8351-FA7C-430F-98D1-DA6DF4CD5790}
+	EndGlobalSection
+EndGlobal
